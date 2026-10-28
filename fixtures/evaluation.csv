@@ -1,0 +1,3 @@
+start_date,end_date,route_id,model_id,absolute_error_sum,mae_count,brier_sum,brier_count
+2026-01-01,2026-01-02,internal-a,deployment-a,12,4,0.8,4
+2026-01-01,2026-01-02,internal-b,deployment-b,2,1,0.1,1
