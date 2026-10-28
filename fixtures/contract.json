@@ -1,0 +1,18 @@
+{
+  "question": "합성 집단의 재방문과 예보 평가를 비교할 수 있나요?",
+  "synthetic": true,
+  "metric": "N-Day Retention",
+  "start_event": "visit",
+  "return_event": "visit",
+  "period_index": 7,
+  "granularity": "daily",
+  "window": "24h",
+  "timezone": "UTC",
+  "identity": "synthetic user ID",
+  "filters": "none",
+  "as_of": "2026-01-20",
+  "source": "independently constructed fixture",
+  "group_unit": "user-start-day",
+  "group_definition": "same-as-retention",
+  "observation_rule": "conservative_next_day"
+}

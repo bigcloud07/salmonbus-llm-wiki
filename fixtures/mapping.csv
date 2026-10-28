@@ -1,0 +1,2 @@
+external_route_id,external_model_id,route_id,model_id,start_date,end_date
+external-a,release-a,internal-a,deployment-a,2026-01-01,2026-01-31
