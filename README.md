@@ -27,6 +27,7 @@
 
 - [아키텍처와 운영 규칙](docs/architecture.md)
 - [구현 계획과 미정 사항](docs/implementation-plan.md)
+- [첫 조사에 따른 데이터 요구사항](docs/data-readiness.md)
 - [Excalidraw 설계도](docs/llm-wiki-design.excalidraw): Excalidraw에서 파일을 열어 수정합니다.
 
 ![설계 개요](docs/llm-wiki-design.svg)
